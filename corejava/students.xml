@@ -1,0 +1,7 @@
+<students>
+	<student id="1">
+		<firstName>Manpreet</firstName>
+		<lastName>Kaur</lastName>
+		<city>Troy</city>
+	</student>
+</students>
